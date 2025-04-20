@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    /* border: 1px solid red; */
+}
+
+main, html{
+    height: 100%;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;
+}
+#nav-cust-txt{
+    color: rgb(194, 194, 194);
+}
